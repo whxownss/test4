@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-조태준 테스트
-정기원 테스트
-sdf
+
 </body>
 </html>
